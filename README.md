@@ -1,5 +1,10 @@
 # Fake News Detection System
 
+## DATASET LINK
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?utm_source=chatgpt.com
+
+---
+
 ## Project Overview
 
 The Fake News Detection System is a Machine Learning and NLP-based application that classifies news articles as Real News or Fake News.
