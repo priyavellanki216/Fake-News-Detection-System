@@ -68,3 +68,23 @@ The project uses TF-IDF Vectorization and Logistic Regression to analyze news co
 Lakshmi Priya Vellanki
 
 M.Tech – AI & Data Science
+
+---
+
+## Dataset
+
+The original dataset files (Fake.csv and True.csv) are not included in this repository due to file size limitations.
+
+Dataset Source:
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?utm_source=chatgpt.com
+
+The dataset was used for:
+
+* Data Cleaning and Preprocessing
+* NLP-based Text Analysis
+* TF-IDF Vectorization
+* Logistic Regression Training
+* Model Evaluation
+
+The trained model and TF-IDF vectorizer are included in this repository, allowing the application to run without the full dataset.
+
