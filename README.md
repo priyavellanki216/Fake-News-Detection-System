@@ -1,7 +1,7 @@
 # Fake News Detection System
 
-## DATASET LINK
-https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?utm_source=chatgpt.com
+## Dataset Source
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 ---
 
